@@ -5,7 +5,7 @@ Diseño de arquitectura bajo el modelo C4 (Contexto, Contenedores y Componentes)
 ## Contenido
 
 - 📄 **Documento completo**: [`Sistema de Banca por Internet.pdf`](./Sistema%20de%20Banca%20por%20Internet.pdf)
-- 🖼️ **Diagramas en alta resolución**: carpeta [`diagramas/`](./diagramas)
+- 🖼️ **Diagramas en alta resolución**: carpeta [`diagramas/`](./Diagramas)
 
 ## Alcance
 
